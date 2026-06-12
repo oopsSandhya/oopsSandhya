@@ -41,7 +41,16 @@ Software Engineer / Java Full Stack Developer Opportunities
 ##  Connect
 
 📍 Bengaluru, India
+## Connect
 
-LinkedIn:[Sandhya Kumari](https://www.linkedin.com/in/sandhya-kumari-04a9b8248/)
+## Connect
 
-Email: sandhyasingh450078@gmail.com
+<a href="https://www.linkedin.com/in/sandhya-kumari-04a9b8248/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:sandhyasingh450078@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" />
+</a>
+
+
+
