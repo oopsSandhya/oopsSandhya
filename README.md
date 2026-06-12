@@ -1,16 +1,47 @@
-## Hi there 👋
+### Hi, I'm Sandhya
 
-<!--
-**sandhyacgu/sandhyacgu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer | Java Full Stack Developer
+I enjoy building full-stack applications, exploring AI-powered products, and turning ideas into real software that people can use.
 
-Here are some ideas to get you started:
+Currently based in Bengaluru and actively looking for Software Engineer opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+---
+
+##  Interests
+
+* Full Stack Development
+* AI Applications
+* Product Development
+* Learning Technologies
+
+---
+
+##  Tech Stack
+
+Java • Spring Boot • Python • TypeScript • React • Tailwind  • FastAPI • PostgreSQL • Docker • Git
+
+---
+
+##  Currently Learning
+
+* Data Structures & Algorithms
+* Backend Engineering
+* System Design
+
+---
+
+##  Looking For
+
+Software Engineer / Java Full Stack Developer Opportunities
+
+---
+
+##  Connect
+
+📍 Bengaluru, India
+
+LinkedIn:[Sandhya Kumari](https://www.linkedin.com/in/sandhya-kumari-04a9b8248/)
+
+Email: sandhyasingh450078@gmail.com
