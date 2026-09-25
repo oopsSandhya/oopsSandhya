@@ -1,12 +1,12 @@
-# Hi, I'm [Sandhya Kumari] 👋
+# Sandhya Kumari
 
-**[Your Role] · [Specialization] · [Location]**
+**Software Engineer · Java Backend · Bengaluru**
 
-[Portfolio](YOUR_PORTFOLIO) · [LinkedIn](YOUR_LINKEDIN) · [GitHub](YOUR_GITHUB) · [Email](mailto:YOUR_EMAIL)
+· [LinkedIn](https://www.linkedin.com/in/sandhya-kumari-04a9b8248/?isSelfProfile=true) · [GitHub](https://github.com/oopsSandhya) · [Email](sandhyasingh450078@gmail.com)
 
 ---
 
-I'm a **[your role]** focused on building [what you build].
+I build **[Backend System]** focused on building [what you build].
 
 I work with **[Technology 1], [Technology 2], [Technology 3]** and enjoy building reliable, scalable applications.
 
