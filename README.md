@@ -1,4 +1,4 @@
-# Hi, I'm Sandhya 👋
+# Hi, I'm Sandhya 
 
 **Software Engineer | Java Backend Development | Bengaluru, India**
 
@@ -14,7 +14,7 @@ I enjoy understanding how systems work behind the scenes — from designing REST
 - Exploring **System Design, caching, and distributed systems**
 - Strengthening my **Data Structures & Algorithms** and problem-solving skills
 
-### Selected Projects
+### Projects
 
 **BrainForge** — A cognitive training platform with secure APIs, real-time multiplayer functionality, and leaderboards.
 
